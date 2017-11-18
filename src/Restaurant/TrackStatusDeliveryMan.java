@@ -209,6 +209,7 @@ public class TrackStatusDeliveryMan extends javax.swing.JFrame {
         DefaultTableModel model = (DefaultTableModel) jTable1.getModel();
         try{
             //Connect to the database
+            //lololololol
             String host = "jdbc:derby://localhost:1527/RESTAURANTDB";
             String name = "nbuser";
             String password = "nbuser";
