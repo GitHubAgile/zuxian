@@ -230,7 +230,7 @@ public class TrackStatusDeliveryMan extends javax.swing.JFrame {
             
             
         }catch(SQLException ex){
-            //Display error msg
+            
             JOptionPane.showMessageDialog(null, ex.getMessage());
         }
     }
